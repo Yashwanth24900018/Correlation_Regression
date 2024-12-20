@@ -1,4 +1,5 @@
-# Correlation and regression for data analysis
+# EXP 3:Correlation and regression for data analysis
+# DATE:26-10-2024
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
